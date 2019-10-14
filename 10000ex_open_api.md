@@ -30,7 +30,7 @@ Please be kindly noticed that currently this version is in BETA and we may keep 
  
 **End Point**
 ----
-The base API endpoint is `https://api.10000ex.com:9000`
+The base API endpoint is `http://api.10000ex.com`
 
 **Response Message**
 ----
